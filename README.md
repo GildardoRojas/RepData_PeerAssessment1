@@ -1,3 +1,14 @@
+##IMPORTANT NOTE!!!
+
+**Dear peer evaluator:**
+
+I've uploaded for assessment the **source R Markdown** code for this project: **PA1_template.Rmd** (tagged with SHA-1 hash: 9fced43b5e57e199d51d5d451636800d0d824c30), being this the most important and only piece to evaluate and reproduce.
+
+While evaluating my peers, I noticed many of them uploaded the **output** files **PA1_template.md** and **PA1_template.html** as well.
+
+I decided to sumbit **output** files to ease peer evaluation, just notice the SHA-1 hash for these files will not match official Coursera submission.
+
+**Thanks for reading and evaluating my work.**
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
